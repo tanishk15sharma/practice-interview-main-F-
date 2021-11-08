@@ -24,7 +24,6 @@ function plusFunction() {
     outputText.style.fontSize = `${defaultSize}px`
 
 }
-
 function minusFunction() {
     defaultSize = defaultSize - 2
     outputText.style.fontSize = `${defaultSize}px`
